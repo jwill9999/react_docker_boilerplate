@@ -1,4 +1,9 @@
 # Create-React-App 2.0 Dockerized
+<p align="center">
+  <img src="./public/image1.png" alt="docker react splashpage image"/>
+</p>
+
+
 
 ## In Development
 
